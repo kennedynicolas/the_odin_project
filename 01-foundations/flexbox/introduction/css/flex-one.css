@@ -22,6 +22,7 @@ body > div {
 
 .one {
     padding: 5px;
+    order:1;
 }
 
 .two, .three, .one{
